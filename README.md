@@ -1,6 +1,6 @@
 ## Response generation, Exception handling and Logging for API's
 
-Usable in Phalcon, Lumen and any other PHP app suporting php 7+
+Use with Phalcon, Lumen and any other PHP app suporting php 7+
 
 Your code:
 ``` 
