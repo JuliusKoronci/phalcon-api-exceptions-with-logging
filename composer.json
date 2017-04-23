@@ -1,0 +1,20 @@
+{
+  "name": "igsem/api-exceptions",
+  "description": "Handle exceptions in Phalcon or other PHP APIs in a consistent way. Return consistent responses with proper response codes and have your errors and exceptions be logged into file on production.",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Julius Koronci",
+      "email": "jk@web-solutions.sk"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Igsem\\": ""
+    }
+  },
+  "target-dir": "Igsem",
+  "minimum-stability": "dev",
+  "require": {}
+}
